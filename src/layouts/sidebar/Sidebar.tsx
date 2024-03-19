@@ -68,7 +68,7 @@ const SidebarItem = () => {
               xs: "row",
               lg: "column",
             },
-            gap: 7,
+            gap: 5,
           }}
         >
           {navLinks.map(item => (
